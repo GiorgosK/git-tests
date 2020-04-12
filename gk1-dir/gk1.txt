@@ -6,4 +6,4 @@ gk 3 on github
 gt 1
 gt 2
 gt 3 feature-1
-gt 3 on guthub
+gt 3 on github
